@@ -3,6 +3,11 @@
 }
 
 
+.header-bg-image {
+    background-image: url(./img/pattern.png)
+}
+
+
 .title-font {
     font-weight:bold;
 }
