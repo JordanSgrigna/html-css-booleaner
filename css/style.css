@@ -41,8 +41,38 @@
     font-size: 10px;
 }
 
-.text {
+.text-size {
     font-size: 13px;
 }
 
 
+.table-layout {
+    table-layout:auto;
+    width:100%;
+}
+
+
+.table-head-color-darkblue{
+    background-color: rgb(70, 70, 206)
+}
+
+.table-color-blue {
+    background-color: rgb(135, 157, 206)
+}
+
+
+.table-head-font {
+    color: white
+}
+
+
+.footer-text{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+.footer-bg {
+    background-color:rgb(107, 107, 190);
+}
