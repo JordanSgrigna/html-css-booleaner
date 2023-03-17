@@ -1,12 +1,6 @@
-body {
-    margin: 0;
-    padding: 0;
-}
-
-
-
 .header-bg-image {
-    background: url('../img/pattern.png'), rgb(141, 223, 223);
+    background: url('../img/pattern.png');
+    background-color: rgb(141, 223, 223);
 }
 
 
