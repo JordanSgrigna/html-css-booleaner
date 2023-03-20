@@ -1,6 +1,7 @@
 .header-bg-image {
     background: url('../img/pattern.png');
     background-color: rgb(141, 223, 223);
+    background-size: 500px 200px;
 }
 
 
